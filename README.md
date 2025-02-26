@@ -8,6 +8,10 @@
 ## Purpose:
 **NEUROSYN ENIGMA** is designed to provide in-depth analysis of text by uncovering both explicit and implicit meanings. The purpose of this tool is to help users gain a deeper understanding of language, including detecting subtle psychological traits, deception, and behavioral cues. It combines advanced linguistic, psychological, and forensic analysis to offer comprehensive insights that can aid in communication, legal analysis, psychological profiling, and more.
 
+In addition, Enigma has the potential to strengthen communication for those who find communication hard-- such as those with Autism or Asperger's or those who have a hard time understanding or who have cognitive impairments. This tool allows those who may have relationship issues strengthen the relationship by effectively communicating better. 
+
+This tool analyzes language, provides feedback and insight and allows you to ask questions.
+
 ## Key Features:
 
 ### 1. **Linguistic Analysis**:
